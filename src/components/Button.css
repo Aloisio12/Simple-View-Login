@@ -1,0 +1,15 @@
+button {
+    height: 45px;
+    width: 150px;
+    font-size: 17px;
+    background-color: salmon;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    transition: all 1s;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
